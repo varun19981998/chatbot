@@ -9,6 +9,7 @@ const userMessage = [
     ["how old are you"],
     ["who are you", "are you human", "are you bot", "are you human or bot"],
     ["who created you", "who made you", "who is your creator"],
+    
   
     [
       "your name please",
@@ -30,7 +31,11 @@ const userMessage = [
     ["you are funny"],
     ["i dont know"],
     ["boring"],
-    ["im tired"]
+    ["im tired"],
+    ["courses"],
+    
+    ["number","NUMBER"],
+    ["average packages","pacakges","btech avg packages"],
   ];
   const botReply = [
     ["Hello!", "Hi!", "Hey!", "Hi there!"],
@@ -51,8 +56,8 @@ const userMessage = [
       "I don't know actually"
     ],
     ["I am always young."],
-    ["I am just a bot", "I am a bot. What are you?"],
-    ["Sabitha Kuppusamy"],
+    ["I am just a ITM bot", "I am a ITM bot. What are you?"],
+    ["varun,arjun,deepak,aman"],
     ["I am nameless", "I don't have a name"],
     ["I love you too", "Me too"],
     ["Have you ever felt bad?", "Glad to hear it"],
@@ -67,7 +72,10 @@ const userMessage = [
     ["Glad to hear it"],
     ["Say something interesting"],
     ["Sorry for that. Let's chat!"],
-    ["Take some rest, Dude!"]
+    ["Take some rest, Dude!"],
+    ["BTECH ,BBA, MBA, BCA,DIPLOMA,MTECH, BSC "],
+    ["999999999999"],
+    ["3 lakh per annum","3lakh per annum","7lakh per annum"],
   ];
   
   const alternative = [
